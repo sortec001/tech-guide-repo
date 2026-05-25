@@ -5,7 +5,7 @@
 ## 插件仓库 URL
 
 ```
-https://gitee.com/baofengz/tech-guide-repo/raw/master/pluginmaster.json
+https://gitee.com/baofengz/tech-guide-repo/raw/main/pluginmaster.json
 ```
 
 ## 目录说明
@@ -29,5 +29,5 @@ F:\FFIX\FFXIVWY\TechGuide\build-release.cmd
 cd /d F:\FFIX\FFXIVWY\tech-guide-repo
 git add .
 git commit -m "release 1.0.0.0"
-git push origin master
+git push origin main
 ```
