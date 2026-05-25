@@ -23,7 +23,7 @@
 2. 添加以下链接并启用：
 
 ```
-https://gitee.com/baofengz/tech-guide-repo/raw/main/pluginmaster.json
+https://raw.githubusercontent.com/sortec001/tech-guide-repo/main/pluginmaster.json
 ```
 
 3. 打开 **插件安装器**，搜索 **TechGuide** 并安装
